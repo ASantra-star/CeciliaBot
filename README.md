@@ -9,7 +9,6 @@ Cecilia is a compassionate mental health chatbot designed to provide emotional a
 - **Motivational Support**: Provides quotes, well-being tips, and inspirational stories.
 - **Urgent Assistance**: Offers helpline numbers and asks if users need to be connected with a professional.
 - **Open-Ended Questions**: Encourages users to open up and share their thoughts.
-- **No Emojis**: Keeps communication clear and professional.
 
 ---
 
