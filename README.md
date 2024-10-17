@@ -17,7 +17,7 @@ Cecilia is a compassionate mental health chatbot designed to provide emotional a
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/cecilia-chatbot.git
+    git clone https://github.com/ASantra-star/CeciliaBot.git
     ```
 2. **Navigate to the project directory**:
     ```bash
