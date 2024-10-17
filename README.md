@@ -1,5 +1,5 @@
 # Cecilia - Mental Health Chatbot for Students
-## Made as a project for participation in Gen AI Exchange Hackathon by Google(2024)
+### Made as a project for participation in Gen AI Exchange Hackathon by Google(2024)
 
 Cecilia is a compassionate mental health chatbot designed to provide emotional and mental health support to students. Whether you're dealing with exam stress, career pressure, personal issues, or anxiety, Cecilia is here to listen and offer empathy, motivational quotes, and well-being tips. If distress or suicidal tendencies are detected, Cecilia will respond with urgency, providing helpful resources and support. 
 
@@ -13,7 +13,7 @@ Cecilia is a compassionate mental health chatbot designed to provide emotional a
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**:
     ```bash
